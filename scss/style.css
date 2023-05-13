@@ -296,7 +296,7 @@ footer {
     align-items: center;
     gap: 60px;
     margin-left: 80px;
-    top: 600px;
+    top: 570px;
   }
   header .boxes .boxx {
     width: 200px;
@@ -310,7 +310,7 @@ footer {
     margin: 250px auto;
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 16px;
   }
   section .box-6 {
     width: 70px;
@@ -319,8 +319,9 @@ footer {
     background-color: #4F1111;
   }
   footer {
+    margin-top: 500px;
     width: 100%;
-    height: 100px;
+    height: 70px;
     background-color: #4F1111;
   }
 }/*# sourceMappingURL=style.css.map */
